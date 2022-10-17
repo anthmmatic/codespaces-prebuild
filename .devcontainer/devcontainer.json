@@ -7,7 +7,8 @@
       "repositories": {
         "anthmmatic/pr-testing": {
           "permissions": {
-            "contents": "read"
+            "contents": "read",
+            "packages": "read"
           }
         }
       }
