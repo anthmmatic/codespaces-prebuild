@@ -6,7 +6,18 @@
     "codespaces": {
       "repositories": {
         "anthmmatic/pr-testing": {
-          "permissions": "read-all"
+            "contents": "read",
+            "packages": "read",
+            "actions": "read",
+            "deployments": "read",
+            "discussions": "read",
+            "issues": "read",
+            "pages": "read",
+            "pull_requests": "read",
+            "repository_projects": "read",
+            "statuses": "read",
+            "workflows": "read"
+          }
         }
       }
     }
